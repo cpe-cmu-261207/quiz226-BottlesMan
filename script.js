@@ -23,5 +23,6 @@ if (toggle.innerHTML == "Search") {
   let UserColor = color(color.value)
   const Change = document.getElementById('#color')
   Text.body.style.color = UserColor
+  
 }
 // more codes for Search and Reset buttons here
